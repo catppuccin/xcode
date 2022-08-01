@@ -3,29 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>DVTConsoleDebuggerInputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SFMono-Bold - 12.0</string>
+	<string>SFMono-Bold - 14.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>SFMono-Medium - 12.0</string>
+	<string>SFMono-Medium - 14.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.65098 0.819608 0.537255 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>SFMono-Bold - 12.0</string>
+	<string>SFMono-Bold - 14.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>SFMono-Medium - 12.0</string>
+	<string>SFMono-Medium - 14.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SFMono-Bold - 12.0</string>
+	<string>SFMono-Bold - 14.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.188235 0.203922 0.27451 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.317647 0.341176 0.427451 1</string>
 	<key>DVTFontAndColorVersion</key>
@@ -37,17 +37,17 @@
 	<key>DVTMarkupTextCodeFont</key>
 	<string>SFMono-Regular - 10.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.AppleSystemUIFontItalic - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
 	<string>1 1 1 0.7</string>
 	<key>DVTMarkupTextLinkColor</key>
-	<string>0.33 0.247124 0.894195 1</string>
+	<string>0.6 0.819608 0.858824 1</string>
 	<key>DVTMarkupTextLinkFont</key>
 	<string>.AppleSystemUIFont - 10.0</string>
 	<key>DVTMarkupTextNormalColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTMarkupTextNormalFont</key>
 	<string>.AppleSystemUIFont - 10.0</string>
 	<key>DVTMarkupTextOtherHeadingColor</key>
@@ -55,15 +55,15 @@
 	<key>DVTMarkupTextOtherHeadingFont</key>
 	<string>.AppleSystemUIFont - 14.0</string>
 	<key>DVTMarkupTextPrimaryHeadingColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTMarkupTextPrimaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 24.0</string>
 	<key>DVTMarkupTextSecondaryHeadingColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTMarkupTextSecondaryHeadingFont</key>
 	<string>.AppleSystemUIFont - 18.0</string>
 	<key>DVTMarkupTextStrongColor</key>
-	<string>1 1 1 1</string>
+	<string>0.776471 0.815686 0.960784 1</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.AppleSystemUIFontBold - 10.0</string>
 	<key>DVTScrollbarMarkerAnalyzerColor</key>
