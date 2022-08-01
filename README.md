@@ -18,10 +18,10 @@
 ## Usage
 
 1. Download your preferred style:
-    - [🌻 Latte]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Latte.xccolortheme))
-    - [🪴 Frappé]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Frappé.xccolortheme))
-    - [🌺 Macchiato]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Macchiato.xccolortheme))
-    - [🌿 Mocha]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Mocha.xccolortheme))
+    - [🌻 Latte](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Latte.xccolortheme)
+    - [🪴 Frappé](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Frappé.xccolortheme)
+    - [🌺 Macchiato](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Macchiato.xccolortheme)
+    - [🌿 Mocha](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Mocha.xccolortheme)
 	
 2. In the Finder app, go to `Go` > `Go to folder`, and enter the following path:
     ```
