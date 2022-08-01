@@ -1,35 +1,40 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/catppuccin/template">App</a>
+	Catppuccin for <a href="https://developer.apple.com/xcode">XCode</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/xcode/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/xcode?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/xcode/issues"><img src="https://img.shields.io/github/issues/catppuccin/xcode?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/xcode/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/xcode?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/sample.png"/>
+	<img src="https://raw.githubusercontent.com/catppuccin/xcode/main/assets/misc/xcode.png"/>
 </p>
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Download your preferred style:
+    - [🌻 Latte]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Latte.xccolortheme))
+    - [🪴 Frappé]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Frappé.xccolortheme))
+    - [🌺 Macchiato]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Macchiato.xccolortheme))
+    - [🌿 Mocha]((https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Mocha.xccolortheme))
+	
+2. In the Finder app, go to `Go` > `Go to folder`, and enter the following path:
+    ```
+    ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+    ```
 
-## 🙋 FAQ (optional)
-
--	Q: **_"Where can I find the doc?"_**
-	A: Run `:help theme`
+3. Import the `.xccolortheme` file at the root of this folder
+4. Open XCode
+5. Go to `Preferences...` (<kbd>CMD</kbd> + <kbd>,</kbd>), `Themes` and select your Catppuccin theme
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Quentin](https://github.com/quentinguidee)
 
 &nbsp;
 
