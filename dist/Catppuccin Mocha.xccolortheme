@@ -87,7 +87,7 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.270588 0.278431 0.352941 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>0.65098 0.678431 0.784314 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.345098 0.356863 0.439216 1</string>
 	<key>DVTSourceTextSelectionColor</key>

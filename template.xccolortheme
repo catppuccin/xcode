@@ -87,7 +87,7 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>{surface1}</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>1 1 1 1</string>
+	<string>{subtext0}</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>{surface2}</string>
 	<key>DVTSourceTextSelectionColor</key>
