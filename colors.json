@@ -1,5 +1,5 @@
 {
-    "latte": {
+    "Latte": {
         "rosewater": "#dc8a78",
         "flamingo": "#dd7878",
         "pink": "#ea76cb",
@@ -27,7 +27,7 @@
         "mantle": "#e6e9ef",
         "crust": "#dce0e8"
     },
-    "frappe": {
+    "Frappé": {
         "rosewater": "#f2d5cf",
         "flamingo": "#eebebe",
         "pink": "#f4b8e4",
@@ -55,7 +55,7 @@
         "mantle": "#292c3c",
         "crust": "#232634"
     },
-    "macchiato": {
+    "Macchiato": {
         "rosewater": "#f4dbd6",
         "flamingo": "#f0c6c6",
         "pink": "#f5bde6",
@@ -83,7 +83,7 @@
         "mantle": "#1e2030",
         "crust": "#181926"
     },
-    "mocha": {
+    "Mocha": {
         "rosewater": "#f5e0dc",
         "flamingo": "#f2cdcd",
         "pink": "#f5c2e7",
