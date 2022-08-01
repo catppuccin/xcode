@@ -85,7 +85,7 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>{surface1}</string>
+	<string>{surface0}</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>{subtext0}</string>
 	<key>DVTSourceTextInvisiblesColor</key>
