@@ -18,7 +18,7 @@ def main():
 		themes = json.load(colors_file)
 		template_lines = template_file.readlines()
 		for theme_name, colors in themes.items():
-			with open("catppuccin-{}.xccolortheme".format(theme_name), "w") as theme_file:
+			with open("dist/catppuccin-{}.xccolortheme".format(theme_name), "w") as theme_file:
 				for line in template_lines:
 					key = re.search("{.*}", line)
 					if key is not None:
