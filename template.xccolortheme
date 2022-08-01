@@ -95,7 +95,7 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>{flamingo}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.character</key>
 		<string>{text}</string>
 		<key>xcode.syntax.comment</key>
@@ -113,25 +113,25 @@
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>{peach}</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>{rosewater}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>{rosewater}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>{blue}</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>{blue}</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>{rosewater}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>{rosewater}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>{mauve}</string>
+		<string>{sapphire}</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>{mauve}</string>
+		<string>{sapphire}</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>{flamingo}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>{flamingo}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.keyword</key>
 		<string>{mauve}</string>
 		<key>xcode.syntax.mark</key>
@@ -143,7 +143,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>{text}</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>{rosewater}</string>
+		<string>{maroon}</string>
 		<key>xcode.syntax.string</key>
 		<string>{green}</string>
 		<key>xcode.syntax.url</key>
