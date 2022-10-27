@@ -23,9 +23,9 @@
     - [🌺 Macchiato](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Macchiato.xccolortheme)
     - [🌿 Mocha](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Mocha.xccolortheme)
 	
-2. In the Finder app, go to `Go` > `Go to folder`, and enter the following path:
+2. Create the custom themes folder in your terminal (if you have not made one already):
     ```
-    ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+    mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
     ```
 
 3. Import the `.xccolortheme` file at the root of this folder
