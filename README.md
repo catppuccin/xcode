@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://developer.apple.com/xcode">XCode</a>
+	Catppuccin for <a href="https://developer.apple.com/xcode">Xcode</a>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -29,7 +29,7 @@
     ```
 
 3. Import the `.xccolortheme` file at the root of this folder
-4. Open XCode
+4. Open Xcode
 5. Go to `Preferences...` (<kbd>CMD</kbd> + <kbd>,</kbd>), `Themes` and select your Catppuccin theme
 
 ## 💝 Thanks to
