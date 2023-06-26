@@ -18,10 +18,10 @@
 ## Usage
 
 1. Download your preferred style:
-    - [🌻 Latte](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Latte.xccolortheme)
-    - [🪴 Frappé](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Frappé.xccolortheme)
-    - [🌺 Macchiato](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Macchiato.xccolortheme)
-    - [🌿 Mocha](https://raw.githubusercontent.com/catppuccin/xcode/main/dist/Catppuccin%20Mocha.xccolortheme)
+    - [🌻 Latte](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Latte.xccolortheme)
+    - [🪴 Frappé](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Frappe.xccolortheme)
+    - [🌺 Macchiato](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Macchiato.xccolortheme)
+    - [🌿 Mocha](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Mocha.xccolortheme)
 	
 2. Create the custom themes folder in your terminal (if you have not made one already):
     ```
