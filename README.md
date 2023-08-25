@@ -19,7 +19,7 @@
 
 1. Download your preferred style:
     - [🌻 Latte](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Latte.xccolortheme)
-    - [🪴 Frappé](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Frappe.xccolortheme)
+    - [🪴 Frappé](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Frapp%C3%A9.xccolortheme)
     - [🌺 Macchiato](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Macchiato.xccolortheme)
     - [🌿 Mocha](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Mocha.xccolortheme)
 	
