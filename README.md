@@ -12,12 +12,31 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/xcode/main/assets/misc/xcode.png"/>
+	<img src="assets/previews/preview.webp"/>
 </p>
+
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+<img src="assets/previews/latte.webp"/>
+</details>
+<details>
+<summary>🪴 Frappé</summary>
+<img src="assets/previews/frappe.webp"/>
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+<img src="assets/previews/macchiato.webp"/>
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+<img src="assets/previews/mocha.webp"/>
+</details>
 
 ## Usage
 
-1. Download your preferred style:
+1. Download your preferred style(s):
     - [🌻 Latte](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Latte.xccolortheme)
     - [🪴 Frappé](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Frapp%C3%A9.xccolortheme)
     - [🌺 Macchiato](https://cdn.jsdelivr.net/gh/catppuccin/xcode/dist/Catppuccin%20Macchiato.xccolortheme)
@@ -28,9 +47,12 @@
     mkdir ~/Library/Developer/Xcode/UserData/FontAndColorThemes
     ```
 
-3. Import the `.xccolortheme` file at the root of this folder
-4. Open Xcode
-5. Go to `Preferences...` (<kbd>CMD</kbd> + <kbd>,</kbd>), `Themes` and select your Catppuccin theme
+3. Move the downloaded theme(s) to the custom themes folder:
+	```
+	mv ~/Downloads/Catppuccin\ *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+	```
+4. Open Xcode.
+5. Go to `Xcode > Preferences` (<kbd>Command</kbd> + <kbd>,</kbd>), Choose the `Themes` tab, and select your desired Catppuccin theme.
 
 ## 💝 Thanks to
 
