@@ -95,43 +95,43 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.580392 0.886275 0.835294 1</string>
 		<key>xcode.syntax.character</key>
-		<string>0.803922 0.839216 0.956863 1</string>
+		<string>0.65098 0.890196 0.631373 1</string>
 		<key>xcode.syntax.comment</key>
-		<string>0.537255 0.705882 0.980392 1</string>
+		<string>0.576471 0.6 0.698039 1</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>0.537255 0.705882 0.980392 1</string>
+		<string>0.576471 0.6 0.698039 1</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>0.454902 0.780392 0.92549 1</string>
+		<string>0.576471 0.6 0.698039 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.980392 0.701961 0.529412 1</string>
+		<string>0.803922 0.839216 0.956863 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.980392 0.701961 0.529412 1</string>
+		<string>0.976471 0.886275 0.686275 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.980392 0.701961 0.529412 1</string>
+		<string>0.976471 0.886275 0.686275 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.980392 0.701961 0.529412 1</string>
+		<string>0.976471 0.886275 0.686275 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.980392 0.701961 0.529412 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.980392 0.701961 0.529412 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.537255 0.705882 0.980392 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.537255 0.705882 0.980392 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.537255 0.705882 0.980392 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.537255 0.705882 0.980392 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.454902 0.780392 0.92549 1</string>
+		<string>0.976471 0.886275 0.686275 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.454902 0.780392 0.92549 1</string>
+		<string>0.976471 0.886275 0.686275 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.803922 0.839216 0.956863 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.803922 0.839216 0.956863 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.796078 0.65098 0.968627 1</string>
 		<key>xcode.syntax.mark</key>
@@ -139,15 +139,25 @@
 		<key>xcode.syntax.markup.code</key>
 		<string>0.580392 0.886275 0.835294 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.803922 0.839216 0.956863 1</string>
+		<string>0.980392 0.701961 0.529412 1</string>
 		<key>xcode.syntax.plain</key>
 		<string>0.803922 0.839216 0.956863 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.921569 0.627451 0.67451 1</string>
+		<string>0.580392 0.886275 0.835294 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.960784 0.760784 0.905882 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0.803922 0.839216 0.956863 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0.976471 0.886275 0.686275 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>0.980392 0.701961 0.529412 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>0.537255 0.862745 0.921569 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.65098 0.890196 0.631373 1</string>
 		<key>xcode.syntax.url</key>
-		<string>0.537255 0.862745 0.921569 1</string>
+		<string>0.537255 0.705882 0.980392 1</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
