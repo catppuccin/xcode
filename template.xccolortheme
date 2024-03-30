@@ -95,43 +95,43 @@
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>{maroon}</string>
+		<string>{teal}</string>
 		<key>xcode.syntax.character</key>
-		<string>{text}</string>
+		<string>{green}</string>
 		<key>xcode.syntax.comment</key>
-		<string>{blue}</string>
+		<string>{overlay2}</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>{blue}</string>
+		<string>{overlay2}</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>{sapphire}</string>
+		<string>{overlay2}</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>{peach}</string>
+		<string>{text}</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>{peach}</string>
+		<string>{yellow}</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>{peach}</string>
+		<string>{yellow}</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>{peach}</string>
+		<string>{yellow}</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>{maroon}</string>
+		<string>{peach}</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>{maroon}</string>
+		<string>{peach}</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>{blue}</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>{blue}</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>{maroon}</string>
+		<string>{blue}</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>{maroon}</string>
+		<string>{blue}</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>{sapphire}</string>
+		<string>{yellow}</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>{sapphire}</string>
+		<string>{yellow}</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>{maroon}</string>
+		<string>{text}</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>{maroon}</string>
+		<string>{text}</string>
 		<key>xcode.syntax.keyword</key>
 		<string>{mauve}</string>
 		<key>xcode.syntax.mark</key>
@@ -139,15 +139,25 @@
 		<key>xcode.syntax.markup.code</key>
 		<string>{teal}</string>
 		<key>xcode.syntax.number</key>
-		<string>{text}</string>
+		<string>{peach}</string>
 		<key>xcode.syntax.plain</key>
 		<string>{text}</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>{maroon}</string>
+		<string>{teal}</string>
+		<key>xcode.syntax.regex</key>
+		<string>{pink}</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>{text}</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>{yellow}</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>{peach}</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>{sky}</string>
 		<key>xcode.syntax.string</key>
 		<string>{green}</string>
 		<key>xcode.syntax.url</key>
-		<string>{sky}</string>
+		<string>{blue}</string>
 	</dict>
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
