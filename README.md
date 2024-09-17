@@ -36,8 +36,19 @@
 
 ## Usage
 
-1. Copy your preferred flavor(s) from [`themes/`](./themes/) to `~/Library/Developer/Xcode/UserData/FontAndColorThemes`.
-2. Go to **Xcode** > **Preferences** (<kbd>Command</kbd> + <kbd>,</kbd>), choose the **Themes** tab, and select your desired Catppuccin theme.
+1. Make the script executable:
+   ```bash
+   chmod +x manage-themes.sh
+   ```
+2. Run the script:
+   ```bash
+   ./manage-themes.sh
+   ```
+3. Choose one of the options from the script:
+   - **Install themes**: This will copy the themes to the appropriate directory.
+   - **Uninstall themes**: This will remove all Catppuccin themes from the Xcode theme directory.
+
+4. Go to **Xcode** > **Preferences** (<kbd>Command</kbd> + <kbd>,</kbd>), choose the **Themes** tab, and select your desired Catppuccin theme.
 
 ## 💝 Thanks to
 
