@@ -186,7 +186,7 @@ whiskers:
 		<key>xcode.syntax.comment.doc</key>
 		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-Regular - 14.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.declaration.other</key>
 		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.declaration.type</key>
@@ -216,9 +216,9 @@ whiskers:
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Regular - 14.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>SFMono-Regular - 14.0</string>
+		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.markup.code</key>
 		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.number</key>
