@@ -14,10 +14,6 @@ whiskers:
 {{ self::val(val=color.rgb.r) }} {{ self::val(val=color.rgb.g) }} {{ self::val(val=color.rgb.b) }} {{ self::val(val=color.opacity) }}
 {%- endmacro -%}
 
-{%- macro keyword_font() -%}
-{% if flavor.name == "Latte" %}SFMono-Semibold - 14.0{% else %}SFMono-Bold - 14.0{% endif %}
-{%- endmacro -%}
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
