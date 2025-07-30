@@ -57,7 +57,7 @@ whiskers:
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.AppleSystemUIFontItalic - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>1 1 1 0.7</string>
+	<string>{{ self::rgb(color=text) }}</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>{{ self::rgb(color=sky) }}</string>
 	<key>DVTMarkupTextLinkFont</key>
