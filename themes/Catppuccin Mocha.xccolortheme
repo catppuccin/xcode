@@ -41,7 +41,7 @@
 	<key>DVTMarkupTextEmphasisFont</key>
 	<string>.AppleSystemUIFontItalic - 10.0</string>
 	<key>DVTMarkupTextInlineCodeColor</key>
-	<string>1 1 1 0.7</string>
+	<string>0.803922 0.839216 0.956863 1</string>
 	<key>DVTMarkupTextLinkColor</key>
 	<string>0.537255 0.862745 0.921569 1</string>
 	<key>DVTMarkupTextLinkFont</key>
