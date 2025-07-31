@@ -1,6 +1,6 @@
 ---
 whiskers:
-  version: 2.4.0
+  version: ^2.4.0
   matrix:
     - flavor
   filename: "themes/Catppuccin {{ flavor.name }}.xccolortheme"
@@ -216,7 +216,7 @@ whiskers:
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>SFMono-Regular - 14.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Bold - 14.0</string>
+		<string>SFMono-{% if flavor.light %}Semibold{% else %}Bold{% endif %} - 14.0</string>
 		<key>xcode.syntax.mark</key>
 		<string>SFMono-Bold - 14.0</string>
 		<key>xcode.syntax.markup.code</key>
